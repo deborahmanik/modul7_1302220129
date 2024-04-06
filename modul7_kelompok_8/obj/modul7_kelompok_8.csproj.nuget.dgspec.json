@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\jurnal 7\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj": {}
+    "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul7_1302220129\\modul7_kelompok_8\\modul7_kelompok_8.csproj": {}
   },
   "projects": {
-    "D:\\jurnal 7\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj": {
+    "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul7_1302220129\\modul7_kelompok_8\\modul7_kelompok_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\jurnal 7\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj",
+        "projectUniqueName": "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul7_1302220129\\modul7_kelompok_8\\modul7_kelompok_8.csproj",
         "projectName": "modul7_kelompok_8",
-        "projectPath": "D:\\jurnal 7\\modul7_kelompok_8\\modul7_kelompok_8\\modul7_kelompok_8.csproj",
+        "projectPath": "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul7_1302220129\\modul7_kelompok_8\\modul7_kelompok_8.csproj",
         "packagesPath": "C:\\Users\\OWNER\\.nuget\\packages\\",
-        "outputPath": "D:\\jurnal 7\\modul7_kelompok_8\\modul7_kelompok_8\\obj\\",
+        "outputPath": "C:\\Users\\OWNER\\OneDrive\\Documents\\GitHub\\modul7_1302220129\\modul7_kelompok_8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OWNER\\AppData\\Roaming\\NuGet\\NuGet.Config",
